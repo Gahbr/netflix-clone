@@ -1,7 +1,8 @@
+//jquery
 $('.owl-carousel').owlCarousel({
     loop:true,
     margin:10,
-    nav:false,
+    nav:true,
     responsive:{
         0:{
             items:1
@@ -14,3 +15,5 @@ $('.owl-carousel').owlCarousel({
         }
     }
 })
+
+//Criado por Gabriel Ribeiro.  Github: https://github.com/Gahbr
